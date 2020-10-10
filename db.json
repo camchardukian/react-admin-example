@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Tina",
+      "strengths": ["grammar", "work ethic"],
+      "weaknesses": ["listening skills"],
+      "enrolledOn": "21-10-2016"
+    },
+    {
+      "id": "2",
+      "name": "Jorge",
+      "strengths": ["punctuality", "participation"],
+      "weaknesses": ["sportsmanship", "vocabulary"],
+      "enrolledOn": "12-07-2019"
+    },
+    {
+      "name": "Vy",
+      "strengths": [
+        "always energetic",
+        "consistently completes her work on time"
+      ],
+      "weaknesses": ["often forgets to raise her hand"],
+      "enrolledOn": "30-03-2018",
+      "id": "3NqoDZ8"
+    }
+  ]
+}
