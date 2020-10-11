@@ -35,5 +35,28 @@
       "enrolledOn": "2017-06-06",
       "id": "Qeohv2f"
     }
+  ],
+  "parents": [
+    {
+      "id": "1",
+      "name": "Mr. Ramirez",
+      "child": "Sarah",
+      "email": "Ramrez@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": "2",
+      "name": "Mrs. Nguyen",
+      "child": "Tina",
+      "email": "tnguyen@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "name": "Mr. Smith",
+      "child": "Tommy",
+      "email": "mrandersmith@example.com",
+      "phone": "100-001-1010",
+      "id": "Pz8AQ4Y"
+    }
   ]
 }
