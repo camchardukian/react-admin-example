@@ -3,26 +3,37 @@
     {
       "id": "1",
       "name": "Tina",
-      "strengths": ["grammar", "work ethic"],
-      "weaknesses": ["listening skills"],
+      "strengths": "grammar, work ethic",
+      "weaknesses": "listening skills",
       "enrolledOn": "10-27-2016"
     },
     {
       "id": "2",
       "name": "Jorge",
-      "strengths": ["punctuality", "participation"],
-      "weaknesses": ["sportsmanship", "vocabulary"],
+      "strengths": "punctuality, participation,",
+      "weaknesses": "sportsmanship, vocabulary, maturity",
       "enrolledOn": "12-07-2019"
     },
     {
       "name": "Vy",
-      "strengths": [
-        "always energetic",
-        "consistently completes her work on time"
-      ],
-      "weaknesses": ["often forgets to raise her hand"],
+      "strengths": "always energetic, consistently completes her work on time",
+      "weaknesses": "often forgets to raise her hand",
       "enrolledOn": "03-30-2018",
       "id": "3NqoDZ8"
+    },
+    {
+      "enrolledOn": "2020-03-31",
+      "name": "Tommy",
+      "strengths": "hard working, willing to challenge himself",
+      "weaknesses": "pronunciation",
+      "id": "072zolM"
+    },
+    {
+      "name": "Sarah",
+      "strengths": "participation, grammar",
+      "weaknesses": "listening comprehension",
+      "enrolledOn": "2017-06-06",
+      "id": "Qeohv2f"
     }
   ]
 }
