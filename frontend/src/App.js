@@ -4,8 +4,9 @@ import restProvider from "ra-data-simple-rest";
 import StudentList from "./components/StudentList";
 import StudentCreate from "./components/StudentCreate";
 import StudentEdit from "./components/StudentEdit";
-
-import "./App.css";
+import ParentList from "./components/ParentList";
+import ParentCreate from "./components/ParentCreate";
+import ParentEdit from "./components/ParentEdit";
 
 function App() {
   return (
@@ -15,6 +16,12 @@ function App() {
         list={StudentList}
         create={StudentCreate}
         edit={StudentEdit}
+      />
+      <Resource
+        name="parents"
+        list={ParentList}
+        create={ParentCreate}
+        edit={ParentEdit}
       />
     </Admin>
   );
